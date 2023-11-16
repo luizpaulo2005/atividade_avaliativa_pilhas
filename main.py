@@ -2,7 +2,7 @@ from collections import deque
 
 pilha = deque()
 listaDesfazer = deque()
-listaRefazer = []
+listaRefazer = deque()
 
 options = [
     "Sair",
